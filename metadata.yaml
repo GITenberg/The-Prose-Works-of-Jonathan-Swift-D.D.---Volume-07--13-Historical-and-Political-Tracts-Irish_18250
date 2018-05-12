@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '7900'
     url: http://www.gutenberg.org/2009/agents/7900
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18250#The-Prose-Works-of-Jonathan-Swift-D.D.---Volume-07--13-Historical-and-Political-Tracts-Irish
 gutenberg_bookshelf: Politics
 gutenberg_issued: '2006-04-24'
 gutenberg_type: Text
